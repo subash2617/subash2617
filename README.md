@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subash2617
-- 👀 I’m interested in Software development, Automation Testing(selenium) Full stack development & Android & Web development
+- 👀 I’m interested in Software development, Automation Testing(selenium), Full stack development & Android & Web development
 - 🌱 I’m currently learning (Java with selenium)
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me by
