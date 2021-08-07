@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subash2617
+- 👋 Hi, I’m @Subash S
 - 👀 I’m interested in Software development, Automation Testing(selenium), Full stack development.,
 - 🌱 I’m currently learning (Java with selenium)
 - 💞️ I’m looking to collaborate on ...
