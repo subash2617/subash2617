@@ -1,7 +1,7 @@
 ### Hi there .👋🏼👋🏼
 # I'm Subash S
 - 👀 I’m interested in Software development, Automation Testing(selenium), Full stack development.,
-- 🌱 I’m currently working as a SDET
+- 🌱 I’m currently working as a Software Engineer(SDET)
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me by
   Gmail - subash26698@gmail.com
