@@ -1,6 +1,6 @@
 ### Hi there .👋🏼👋🏼
 # I'm Subash S
-- 👀 I’m interested in Software development, Automation Testing(selenium), Full stack development.,
+- 👀 I’m interested in Software development, Automation Testing & software Testing, Full stack development.,
 - 🌱 I’m currently working as a Software Engineer(SDET)
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me by
