@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me by
   Gmail - subash26698@gmail.com
-  LinkedIn - https://www.linkedin.com/in/subash-s-112500200/
+  LinkedIn - https://www.linkedin.com/in/Subash2S/
   
   
 <h2><b>Languages and Tool's ⚙️. </b></h2> 
